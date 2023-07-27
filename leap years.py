@@ -1,6 +1,6 @@
-year = int(input("Enter year : "))
-
-if (year%4 == 0 and year%100 != 0) or (year%400 == 0):
-    print(year, "is a leap year.")
-else:
-    print(year, "is not a leap year.")
+a = input("enter first number")
+b = input("enter second number")
+if (1<= n <=a):
+    if("a%n == 0")
+    print("a")
+    
