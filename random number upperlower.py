@@ -3,7 +3,7 @@ counter = 1
 x = random.randint(1,10)
 while counter == 1:
     
-    print ("")
+    
     ans = input("your answer : ")
     if not (ans == "done"):
         if ans == str(x):
@@ -12,4 +12,4 @@ while counter == 1:
             print("go upper")
         else:
             print("go lower")
-            
+        break
